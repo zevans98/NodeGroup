@@ -1,3 +1,6 @@
 node_Modules
 .env
+<<<<<<< HEAD
+=======
 .DS_Store
+>>>>>>> refs/remotes/origin/master
